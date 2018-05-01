@@ -7162,6 +7162,7 @@ $wgConf->settings = array(
 		'trexwiki' => "//$wmgUploadHostname/trexwiki/4/49/Wikit.png",
 		'triforcewikiwiki' => "//$wmgUploadHostname/triforcewikiwiki/8/8f/Triforce_Wiki_Logo.png",
 		'triseptsoloutionswiki' => "//$wmgUploadHostname/triseptsolutionswiki/2/25/Trisept_Logo.png",
+		'truecapitalistwiki' => "//$wmgUploadHostname/truecapitalistwiki/9/9c/WikiLogoAttempt2.png",
 		'trumpwiki' => "//$wmgUploadHostname/trumpwiki/c/c3/Magnifying-logo.jpg",
 		'tudienwiki' => "//$wmgUploadHostname/tudienwiki/f/f0/Ftvh_Avatar.png",
 		'tulpawiki' => "//$wmgUploadHostname/tulpawiki/1/10/Tulpa.info-Logo.png",
